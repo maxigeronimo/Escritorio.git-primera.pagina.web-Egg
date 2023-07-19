@@ -21,6 +21,9 @@ p {
   margin: auto;
   padding: 20px;
 }
+.greeting{
+  text-align: center;
+}
 
 .row {
   display: flex;
